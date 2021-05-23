@@ -1,3 +1,8 @@
+## Ссылки
+
+Демо https://digtrack.ru/statistic
+Скринкаст https://disk.yandex.ru/i/tz7x5IUC2aavPA
+
 ## Разработчик
 
 @elarinov - программист, Евгений. Собрал приложение, разработал веб-часть решения.
